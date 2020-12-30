@@ -1,22 +1,3 @@
-.x a {
-	float: left;
-	color: #f2f2f2;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-.x a:hover {
-	background-color: #ebe6e0;
-	color: black;
-}
-
-.x a.active {
-	background-color: #b8a7aa;
-	color: black;
-}
-
 div.heading {
 	text-align: center;
 	color: white;
